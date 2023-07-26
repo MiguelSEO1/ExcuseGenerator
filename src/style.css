@@ -1,1 +1,5 @@
 @import "~bootstrap/dist/css/bootstrap.min.css";
+
+.firstDiv {
+  box-shadow: 0 0 40px rgba(210, 10, 213, 0.5); /* El último valor (0.5) es la opacidad de la sombra */
+}
